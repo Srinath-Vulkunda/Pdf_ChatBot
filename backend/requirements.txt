@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-ollama
+pydantic
+PyMuPDF
+python-multipart
+source 
