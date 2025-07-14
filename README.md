@@ -95,14 +95,9 @@ The React app will start at `http://localhost:3000`.
 
 ---
 
-## 📸 Screenshots
 
 
-*(Add screenshots or screen recordings here if needed)*
-
----
-
-## 🙋‍♂️ Author
+## 🙋‍♂️
 
 **Vulkunda Srinath**
 📧 Email: [srinathvulkunda@gmail.com](mailto:srinathvulkunda@gmail.com)
